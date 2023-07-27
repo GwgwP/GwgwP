@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @GwgwP
 - 👀 I’m interested in java, c++
-- 🌱 I’m a senior udergraduate student in AUEB, Greece 
+- 🌱 I’m a senior udergraduate IT student in AUEB, Greece 
 - 📫 You reach me via e-mail at gwgwpet2001@gmail.com
