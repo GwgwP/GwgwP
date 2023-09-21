@@ -73,7 +73,7 @@
 <!-- JOKE API -->
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=gradientBlue" alt="Jokes Card" />
 <!-- SPOTIFY API -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31oqpwy4jqq4kd44yd5oszzapxca&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31oqpwy4jqq4kd44yd5oszzapxca&redirect=true)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31oqpwy4jqq4kd44yd5oszzapxca&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31oqpwy4jqq4kd44yd5oszzapxca&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
 
 
 <div id="header" align="center">
