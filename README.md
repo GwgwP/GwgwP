@@ -60,8 +60,9 @@
 
 <p align = "center"><i>folk music, electric guitar, football, pilates, running, sketching</i></p>
 
-<br>
+
 ---
+<br>
 ---
 <h3 align="center">Connect with me:</h3>
 
