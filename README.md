@@ -4,7 +4,7 @@
 
 <h2>About me</h2>, 
 <p align="center">Hi, I’m <b>@GwgwP</b>
-<br><a senior undergraduate student at <a href="https://www.aueb.gr/en">AUEB</a>. Eager to accept new opportunities with passion, creativity and humor.
+<br>a senior undergraduate student at <a href="https://www.aueb.gr/en">AUEB</a>. Eager to accept new opportunities with passion, creativity and humor.
 <br>Current avg: <b>9.04</b> / 10</p>
 
 <br> <p> On my profile you will be able to find some of my university projects that I am proud of.</p> 
