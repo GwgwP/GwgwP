@@ -25,7 +25,7 @@
 💪 Hobbies
 </h3>
 <br>
-<p align = "center">folk music, electric guitar, football, pilates, running, sketching</p>
+<p align = "center"><i>folk music, electric guitar, football, pilates, running, sketching</i></p>
 
 <br>
 
