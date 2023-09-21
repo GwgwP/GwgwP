@@ -1,5 +1,3 @@
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31oqpwy4jqq4kd44yd5oszzapxca&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31oqpwy4jqq4kd44yd5oszzapxca&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3otOKtnGppPi5Q4hOw/giphy.gif"/>
 </div>
