@@ -4,7 +4,7 @@
 
 <h3>About me</h3>
 <p align="center">Hi, I’m <b>@GwgwP</b>
-<br>a senior undergraduate student at <a href="https://www.dept.aueb.gr/en/infotech-overview-en">AUEB</a>. Also I had been an Erasmus+ student for one semester in Vilnius, Lithuania. (<a href="https://mif.vu.lt/lt3/en/">Vilniaus Universitetas</a>). I' m eager to accept new opportunities with passion, creativity and humor.
+<br>a senior undergraduate student at <a href="https://www.dept.aueb.gr/en/infotech-overview-en">AUEB</a> based in Athens, Greece. Also I had been an Erasmus+ student for one semester in Vilnius, Lithuania. (<a href="https://mif.vu.lt/lt3/en/">Vilniaus Universitetas</a>). I' m eager to accept new opportunities with passion, creativity and humor.
 <br>Current avg: <b>9.04</b> / 10</p>
 
 <h3>What you can find here</h3>
