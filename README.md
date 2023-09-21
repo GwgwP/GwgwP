@@ -70,6 +70,9 @@
    <a href="https://discordapp.com/users/678618870357164070" target="_blank"><img src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=gradientBlue" alt="Jokes Card" />
+
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif"/>
 </div>
