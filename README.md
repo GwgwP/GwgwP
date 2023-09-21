@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/wcgn5fVDjvR7pdvz4C/giphy.gif"/>
 </div>
 
-<h2>Hi</h2>, 
-<p>I’m <b>@GwgwP</b>
-<br><h3>a senior undergraduate student at <a href="https://www.aueb.gr/en">AUEB</a>. Eager to accept new opportunities with passion, creativity and humor.</h3>
-<br><p>Current avg: <b>9.04</b> / 10</p>
+<h2>About me</h2>, 
+<p align="center">Hi, I’m <b>@GwgwP</b>
+<br><a senior undergraduate student at <a href="https://www.aueb.gr/en">AUEB</a>. Eager to accept new opportunities with passion, creativity and humor.
+<br>Current avg: <b>9.04</b> / 10</p>
 
 <br> <p> On my profile you will be able to find some of my university projects that I am proud of.</p> 
 
