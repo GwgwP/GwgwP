@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/clips/originals-hacker-desi-hackette-lu01tsQqf1mJuHrFVq"/>
+  <img src="https://media.giphy.com/media/3otOKtnGppPi5Q4hOw/giphy.gif"/>
 </div>
 
 <h3>About me</h3>
