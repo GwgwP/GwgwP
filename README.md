@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/3otOKtnGppPi5Q4hOw/giphy.gif"/>
 </div>
 
-<h3 align="center"> 👩‍🎓 About me</h3>
+<h3 align="center">About me</h3>
 
 <p align="center">Hi, I’m <i><b>@GwgwP</b></i>
 <br>a 22 y.o. senior undergraduate student at <i><a href="https://www.dept.aueb.gr/en/infotech-overview-en">AUEB</a></i> based in Athens, Greece. I had been an Erasmus+ student for one semester in Vilnius, Lithuania (<a href="https://mif.vu.lt/lt3/en/"><i>Vilniaus Universitetas</i></a>). I' m eager to accept new opportunities with passion, creativity and humor.
