@@ -1,13 +1,14 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/wcgn5fVDjvR7pdvz4C/giphy.gif"/>
+  <img src="https://giphy.com/clips/originals-hacker-desi-hackette-lu01tsQqf1mJuHrFVq"/>
 </div>
 
-<h2>About me</h2>, 
+<h3>About me</h3>
 <p align="center">Hi, I’m <b>@GwgwP</b>
 <br>a senior undergraduate student at <a href="https://www.aueb.gr/en">AUEB</a>. Eager to accept new opportunities with passion, creativity and humor.
 <br>Current avg: <b>9.04</b> / 10</p>
 
-<br> <p> On my profile you will be able to find some of my university projects that I am proud of.</p> 
+<h3>What you can find here</h3>
+<p align="center"> On my profile you will be able to find some of my university projects that I am proud of.</p> 
 
 
 <h3 align="center">Connect with me:</h3>
