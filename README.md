@@ -71,7 +71,7 @@
 </p>
 
 <!-- JOKE API -->
-<img align="center" src="https://readme-jokes.vercel.app/api?hideBorder&theme=gradientBlue" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=gradientBlue" alt="Jokes Card" align="center" />
 
 
 
