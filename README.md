@@ -70,8 +70,10 @@
    <a href="https://discordapp.com/users/678618870357164070" target="_blank"><img src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 
-<!-- HTML -->
+<!-- JOKE API -->
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=gradientBlue" alt="Jokes Card" />
+<!-- SPOTIFY API -->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31oqpwy4jqq4kd44yd5oszzapxca&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif"/>
