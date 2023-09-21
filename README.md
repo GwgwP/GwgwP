@@ -52,7 +52,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GwgwP&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+---
 
 <h3 align ="center">
  Hobbies🧘🏻‍♂️
@@ -61,7 +61,8 @@
 <p align = "center"><i>folk music, electric guitar, football, pilates, running, sketching</i></p>
 
 <br>
-
+---
+---
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
