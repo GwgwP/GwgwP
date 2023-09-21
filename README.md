@@ -71,8 +71,8 @@
 </p>
 
 <!-- JOKE API -->
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=gradientBlue" alt="Jokes Card" />
-<!-- SPOTIFY API -->
+<img align="center" src="https://readme-jokes.vercel.app/api?hideBorder&theme=gradientBlue" alt="Jokes Card" />
+
 
 
 <div id="header" align="center">
