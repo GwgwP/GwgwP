@@ -62,18 +62,21 @@
 <p align = "center"><i>folk music, electric guitar, football, pilates, running, sketching</i></p>
 
 
----
 
-<h3 align="center">Connect with me:</h3>
+
 <!--<p align="center">
    <a href="https://www.linkedin.com/in/georgia-petsa-/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" width="40" /></a>
    <a href="https://discordapp.com/users/678618870357164070" target="_blank"><img src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png" height="30" width="40" /></a>
 </p>-->
+---
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-   <a href="https://www.linkedin.com/in/georgia-petsa-/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="40" width="40" /></a>
-   <a href="https://discordapp.com/users/678618870357164070" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" height="30" width="40" /></a>
+   <a href="https://www.linkedin.com/in/georgia-petsa-/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="60" width="60" /></a>
+   <a href="https://discordapp.com/users/678618870357164070" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" height="60" width="60" /></a>
 </p>
+
 <!-- JOKE API -->
+
 <div align = "center">
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=gradientBlue" alt="Jokes Card"/>
 </div>
