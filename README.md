@@ -87,5 +87,5 @@
 
 
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif"/>
+    <img src="https://media.giphy.com/media/3SL41WtN5l9DNdPJGs/giphy.gif"/>
 </div>
