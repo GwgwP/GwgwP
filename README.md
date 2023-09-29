@@ -18,8 +18,6 @@
    <a href="https://discordapp.com/users/678618870357164070" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" height="60" width="60" /></a>
 </p>
 
----
-
 <h3 align="center">What you can find here 👇 </h3>
 
 <p align="center"> On my profile you will be able to find some of my university projects that I am proud of.</p> 
