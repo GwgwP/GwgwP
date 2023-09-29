@@ -10,15 +10,14 @@
 <br>a 22 y.o. senior undergraduate student at <i><a href="https://www.dept.aueb.gr/en/infotech-overview-en">AUEB</a></i> based in Athens, Greece. I had been an Erasmus+ student for one semester in Vilnius, Lithuania (<a href="https://mif.vu.lt/lt3/en/"><i>Vilniaus Universitetas</i></a>). I' m eager to accept new opportunities with passion, creativity and humor.
 <br>Current avg: <b>9.04</b> / 10</p>
 
+---
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
    <a href="https://www.linkedin.com/in/georgia-petsa-/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="60" width="60" /></a>
    <a href="https://discordapp.com/users/678618870357164070" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" height="60" width="60" /></a>
 </p>
-<br>
 
-<br>
 ---
 
 <h3 align="center">What you can find here 👇 </h3>
