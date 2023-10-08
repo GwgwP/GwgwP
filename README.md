@@ -63,11 +63,6 @@
 
 ---
 
-<h3 align ="center">
- Hobbies🧘🏻‍♂️
-</h3>
-
-<p align = "center"><i>folk music, electric guitar, football, pilates, running, sketching</i></p>
 
 
 
