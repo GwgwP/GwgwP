@@ -46,9 +46,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
+  <img src="https://camo.githubusercontent.com/eb70bafc8f5beedb0d5c21f25d000cef9d3374bcc4ec3680935ac05a1e90e928/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f694a5758784172325a613645744e32526f772f67697068792e676966" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Visual Studio Code" alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
 </div>
 <br>
 
