@@ -20,7 +20,7 @@
 
 <h3 align="center">What you can find here 👇 </h3>
 
-<p align="center"> On my profile you will be able to find some of my university projects that I am proud of.</p> 
+<p align="center"> On my profile you will be able to find some of my university and non-university projects that I am proud of.</p> 
 
 <br>
 
