@@ -2,7 +2,7 @@
   <!-- <img src="https://media.giphy.com/media/3otOKtnGppPi5Q4hOw/giphy.gif"/>-->
   <!--<img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" />-->
   <!--<img src="https://user-images.githubusercontent.com/74038190/248884004-af212da4-8588-4d7c-8400-16e56f2746a0.gif" height="400" width="900"/> -->
-  <img src="https://giphy.com/clips/playoverwatch-overwatch-2-sojourn-CKF2uJ9zMVrjc9N4Yu" height="400" width="900">
+  <img src="https://giphy.com/clips/playoverwatch-overwatch-2-sojourn-CKF2uJ9zMVrjc9N4Yu.gif" height="400" width="900">
 </div>
 
 <h3 align="center">About me</h3>
