@@ -3,7 +3,7 @@
   <!--<img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" />-->
   <!--<img src="https://user-images.githubusercontent.com/74038190/248884004-af212da4-8588-4d7c-8400-16e56f2746a0.gif" height="400" width="900"/> -->
   <!--<img src="https://media.giphy.com/media/l4FGKcOu4bKzoHF6w/giphy.gif?cid=ecf05e4776u1x3s0vzycdvsywru63ysijpkyiez8s00lhgw3&ep=v1_gifs_search&rid=giphy.gif" height="400" width="900"> -->
-  <div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/OYZOPheyZZ3PTD4tig/video" width="480"></iframe></div>
+  <img src="https://giphy.com/embed/OYZOPheyZZ3PTD4tig/video" height ="400" width="900"></div>
   
 </div>
 
