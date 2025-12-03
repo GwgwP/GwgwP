@@ -61,7 +61,7 @@
 ---
 
 ### :fire: My Stats :
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3125355" style='border:none;'></iframe>
+[![THM Streak](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3125355)]
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GwgwP&theme=dark&background=000000)](https://git.io/streak-stats)
 
