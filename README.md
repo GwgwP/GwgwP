@@ -62,6 +62,9 @@
 
 ### :fire: My Stats :
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/gwgwpet.png" alt="Your Image Badge" />
+
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GwgwP&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
@@ -70,7 +73,6 @@
 
 ---
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/gwgwpet.png" alt="Your Image Badge" />
 
 
 
